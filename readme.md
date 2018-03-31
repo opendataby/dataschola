@@ -9,3 +9,5 @@
 2. Обзор международной гуманитарной и технической помощи для Беларуси по данным проекта AidData, https://github.com/opendataby/dataschola/tree/master/aid_belarus
 
 3. Обзор данных лотереи "Удача в придачу", https://github.com/opendataby/dataschola/tree/master/udacha
+
+4. Работа с комментариями на форумах, https://github.com/opendataby/dataschola/tree/master/talks
